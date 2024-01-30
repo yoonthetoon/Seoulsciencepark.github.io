@@ -1,0 +1,1 @@
+Rocket Principle: When force is applied to an object, the object that applies the force also receives a force. The magnitude of the received force is equal to the force applied to the object, but the direction is opposite. A rocket uses the principle of action and reaction to obtain propulsion, as it propels itself by expelling gas that is combusted internally.

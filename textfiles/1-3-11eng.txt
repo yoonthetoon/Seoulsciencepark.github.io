@@ -1,0 +1,1 @@
+Gyro Scope: Human Gyro: 1. Sit on the chair and slowly turn the handle to one side. Does the chair rotate? 2. Rotate the wheel with your palm. 3. Turn the handle to one side. What kind of motion does the wheel exhibit? 1. Rotate the wheel forcefully. 2. Place the spinning wheel horizontally on a loop. 3. What kind of movement does the wheel axle make?

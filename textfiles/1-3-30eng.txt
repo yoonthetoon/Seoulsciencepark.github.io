@@ -1,0 +1,2 @@
+Coin Race: Experiment 1. Let's observe the motion of the coin by rolling it into the entry slot. What kind of motion is the coin experiencing? Why doesn't the coin tip over? Also, why does the speed of the coin increase? 2. Let's try a coin race by simultaneously inserting coins of different sizes into the entry slot. Which coin will be faster?
+Principle: In order for an object to undergo circular motion, centripetal force is required. When a coin undergoes circular motion on a slope, the slope pushes the coin, creating centripetal force.

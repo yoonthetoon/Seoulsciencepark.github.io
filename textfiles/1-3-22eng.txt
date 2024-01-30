@@ -1,0 +1,2 @@
+Experiment: 1. Press the switch to move the bead and observe the motion of the larger bead when it collides with the smaller bead.
+Explanation: The irregular motion of the larger bead, or pollen, is due to the collisions caused by the irregular motion of the smaller bead, or water molecules. Small particles like smoke or pollen in gases or liquids constantly move by colliding with gas or liquid molecules, and this phenomenon is called Brownian motion.

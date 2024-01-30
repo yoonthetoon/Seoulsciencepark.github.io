@@ -1,0 +1,1 @@
+Experiment: 1. Let's observe the vibration of the bars while changing the frequency of the motor. Which bar vibrates first? Why don't the two bars vibrate simultaneously? What do the bars resonate with?

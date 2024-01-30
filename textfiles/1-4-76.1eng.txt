@@ -1,0 +1,1 @@
+The Secret of the Parabola: A parabola is a collection of points where the distances to a given point F and a given line L, which doesn't pass through F on a plane, are the same. In this case, F is called the focus and L is called the directrix. When light enters parallel to the line OF, it has geometric properties that converge at the focus.

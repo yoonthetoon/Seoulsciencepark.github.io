@@ -1,0 +1,3 @@
+1. Let's observe the shadow that appears on the screen when the heating part, made of nichrome wire, located at the bottom of the water is heated by pressing the switch. Which direction does the water move? Why does the water move?
+
+2. Let's think about the reason why the movement of water looks like a prism. Explanation: The water, which receives heat from the nichrome wire submerged in water, expands in volume, causing a decrease in density, and rises upwards, while cold water that was previously on top moves downwards. When light passes through the water, the density of the water varies at different points, causing the light to refract and create the appearance of a prism.

@@ -1,0 +1,1 @@
+When suddenly starting, the feet start with the car, but the head remains in its original position due to inertia. Therefore, a person falls backwards. When suddenly stopping, the feet stop with the car, but the head continues moving forward due to inertia. Therefore, a person falls forward.

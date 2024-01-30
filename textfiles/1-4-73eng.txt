@@ -1,0 +1,1 @@
+Parallel and series connections of batteries: When batteries are connected in parallel, the voltage remains unchanged. However, when batteries are connected in series, the voltage increases, resulting in a brighter light bulb.

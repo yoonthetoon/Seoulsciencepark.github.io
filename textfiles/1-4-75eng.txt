@@ -1,0 +1,1 @@
+How does a discharge bulb emit light? By removing the air from a glass bulb and filling it with a mixture of helium, neon, and xenon gases at low pressure, then applying a high-frequency voltage of around 30,000 Hz and 15,000 V, a discharge occurs and the gases emit their characteristic light. Let's try touching the glass bulb with our hands. Why does the light follow our hand?

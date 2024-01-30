@@ -1,0 +1,1 @@
+Heat Transfer: Heat moves from objects at high temperatures to objects at low temperatures through convection, conduction, and radiation. Convection: Heat transfer that occurs as a result of the movement of gases or liquids. Radiation: Heat transfer through light. Conduction: Heat transfer through direct contact with objects.

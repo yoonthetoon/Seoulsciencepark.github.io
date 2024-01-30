@@ -1,0 +1,10 @@
+Experimental Method: 1. Sit down and press the switch to start the rotation. 2. Observe the changing shape of the moon as shown in the picture.
+
+Explanation: Reasons for the changing shape of the moon: The moon itself does not emit light and only the parts that receive sunlight appear bright. However, because the moon revolves around the Earth, its shape appears differently depending on the position of the sun, moon, and Earth. 
+
+1. New Moon: The bright part of the moon is not visible because it is between the sun and Earth. It corresponds to the first day of the lunar calendar.
+2. Waxing Crescent: It is the moon that is briefly visible in the western sky after the sun sets, and it occurs around the third day of the lunar calendar.
+3. First Quarter: It is the moon that is in the middle of transitioning from a new moon to a full moon, and the right half is bright. It occurs around the 7th to 8th day of the lunar calendar.
+4. Full Moon: It is when the Earth is between the moon and the sun, and it occurs around the 15th day of the lunar calendar.
+5. Last Quarter: It is the moon that is in the middle of transitioning from a full moon to a new moon, and it appears as a left half moon. It occurs around the 22nd to 23rd day of the lunar calendar.
+6. Waning Crescent: It is the moon that rises in the eastern sky just before sunrise, and it occurs around the 26th to 27th day of the lunar calendar.

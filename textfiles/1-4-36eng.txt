@@ -1,0 +1,5 @@
+Experiment 1: Let's observe how white light changes as it passes through a glass tube.
+Experiment 2: Let's put on a polarizing plate and observe the shape of scattered light. Why does the color change?
+
+Principle: Short-wavelength blue light is scattered when light enters, while long-wavelength red light does not scatter and passes through.
+Explanation: When light hits an object, it reflects. In this case, if the object is very small, the light that hits the object is scattered in all directions. This phenomenon is called scattering. When sunlight reaches the Earth, it encounters air molecules, and these air molecules mainly scatter short-wavelength blue light. Since that light enters our eyes, the sky appears blue. In the morning or evening, the sunlight lingers in the atmosphere for a longer time, so the unscattered red light enters our eyes more. As a result, the sky appears red.

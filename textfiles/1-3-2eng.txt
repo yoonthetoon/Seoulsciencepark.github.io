@@ -1,0 +1,1 @@
+Law of Conservation of Angular Momentum: Angular momentum is the product of mass, velocity, and radius. If no external force acts on a rotating object, the angular momentum remains constant. When the arm is folded, the angular momentum does not change, but the velocity increases because the rotational radius becomes shorter.

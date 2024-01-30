@@ -1,0 +1,7 @@
+Reflection: When a wave encounters a different medium while progressing, the phenomenon in which the wave returns to its original medium at the boundary. When a wave is reflected at the boundary between two media, the incident angle and the reflected angle are equal, based on the normal line. This is called the law of reflection. Regular reflection occurs on smooth surfaces, while diffused reflection occurs on rough surfaces.
+
+Refraction: The phenomenon in which the direction of a wave changes as it passes through the boundary between different media. The direction of the wave changes when it passes through the boundary of different media because the wave's propagation speed varies depending on the medium.
+
+Interference: The phenomenon in which the amplitude increases or decreases when two or more waves meet based on the principle of superposition. When two waves meet, if a crest and a crest meet, the amplitude increases, and if a crest and a trough meet, the amplitude decreases. When two waves with constant wavelength and amplitude meet, significant interference patterns can be observed.
+
+Diffraction: The phenomenon in which a wave encounters an obstacle while progressing, and the wave is transmitted to the back side of the obstacle. If there are gaps in the path, particles pass through the gaps and continue in a straight line. In contrast, waves are not only transmitted in a straight line through gaps, but also transmitted to a certain range around them.

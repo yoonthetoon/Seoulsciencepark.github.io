@@ -1,0 +1,6 @@
+What is seismic design? Seismic design is the process of designing buildings to withstand the vibrations caused by earthquakes in order to prevent the collapse of structures. Through seismic design, buildings can withstand powerful vibrations and distribute the transmitted vibrations evenly, minimizing damage caused by earthquakes.
+
+Types of seismic design:
+1. Base Isolation Design: This method involves building structures that are sturdy enough to prevent collapse or significant shaking even when the ground shakes severely during an earthquake.
+2. Damping Design: This method involves attaching special devices to absorb the vibrations transmitted from the ground.
+3. Flexible Design: This method involves constructing buildings that can flexibly respond when the ground shakes during an earthquake.

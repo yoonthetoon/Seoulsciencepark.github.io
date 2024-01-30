@@ -1,0 +1,1 @@
+Let's use a pulley to lift an object. Is there a difference in the force required to lift it? Let's think about why there might be a difference. When the moments of force (force x distance) on both sides of the pulley are equal, the pulley reaches equilibrium. Therefore, if we apply force from a point far away from the fulcrum, less force is required.
