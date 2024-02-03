@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head> 
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <title>융합과학교육원남산분원</title>
+  </head>
+  <body>
+    <h1 id="title">융합과학교육원남산분원</h1>
+
+
+    <div class="dropdown">
+      <button onclick= "dropDown()" class="button">
+        <div id="drops" class="dropContent">
+          <a id="english" href="textfiles/defaultText.txt">English</a>
+          <a id="korean" href="textfiles/defaultText.txt">한국어</a>
+
+        </div>
+      </button>
+    </div>
+
+    
+    
+
+    <div class="audioContainer">
+      <audio id="audio" controls src="mp3files/defaultMp3.mp3"></audio>
+    </div>
+
+    <div class="container">
+      <p class="mainText">Error!</p>
+    </div>
+
+    <iframe
+      id="itemText"
+      src="textfiles/defaultText.txt"
+      width="0%"
+      height="0"
+    ></iframe>
+
+    <script defer src="index.js"></script>
+
+    <div class="changePageContainer">
+      <a id="previous" href="textfiles/defaultText.txt"
+        ><img src="images/previous.png"
+      /></a>
+      <a id="next" href="textfiles/defaultText.txt"
+        ><img src="images/next.png"
+      /></a>
+    </div>
+  </body>
+</html>
